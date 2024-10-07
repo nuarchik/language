@@ -1,1 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Caveat:wght@400..700&display=swap');
 
+body{
+    font-family: "Caveat", cursive;
+    background: #C4EBD9;
+    font-size: 20px;
+}
+h2{
+    text-align: center;
+}
+.info-box{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;  
+    text-align: center;
+}
+.info-box .box{
+    border: solid black 3px;
+    margin: 10px;
+    border-radius: 10px;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+}
+.tutor-image{
+    float:left;
+    width: 50px;
+}
+.tutor-prise{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;  
+    text-align: center;
+}
+.tutor{
+    border: solid black 3px;
+    margin: 10px;
+    border-radius: 10px;
+    width: 250px;
+    height: 200px;
+    text-align: center;
+    padding: 10px;
+}
