@@ -41,3 +41,27 @@ h2{
     text-align: center;
     padding: 10px;
 }
+footer{
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}
+.maseger img{
+    display: flex;
+    justify-content: center;  
+    text-align: center;
+    width: 50px;
+}
+.boxin{
+    display: flex;
+    justify-content: center;  
+    justify-content: space-around;
+    text-align: center;
+    padding: 10px;
+}
+.play img{
+    display:flex;
+    justify-content: center;  
+    text-align: center;
+    width: 100px;
+}     
