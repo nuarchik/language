@@ -42,7 +42,8 @@ h2{
     padding: 10px;
 }
 footer{
-    background-color: black;
+    margin-top: 20px;
+    background-color: #626262;
     color: white;
     border-radius: 10px;
 }
@@ -63,5 +64,6 @@ footer{
     display:flex;
     justify-content: center;  
     text-align: center;
-    width: 100px;
-}     
+    width: 130px;
+    padding: 20px;
+}
